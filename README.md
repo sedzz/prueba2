@@ -1,4 +1,3 @@
 # prueba2
-## Titulo2
-###### Imagen:
+## Imagen:
 ![Dibujo de una ola](/imagenes/ola.jpg)
